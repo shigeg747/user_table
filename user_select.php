@@ -79,7 +79,7 @@ if($status==false) {
         <div class="container-fluid" style="position:relative;">
           <div class="navbar-header">
             <!-- <a class="navbar-brand aaa" href="user_select.php"> User一覧</a> -->
-            <a class="navbar-brand aaa" href="index.php">User登録</a>
+            <a class="navbar-brand aaa" href="index.html">User登録</a>
             <!-- <a class="navbar-brand aaa" href="logout.php">ログアウト</a> -->
           </div>
         </div>
